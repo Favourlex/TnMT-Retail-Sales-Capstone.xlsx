@@ -1,4 +1,12 @@
+# TNMT Retail Sales Capstone
 
+This project uses Excel (Pivot Tables, Slicers & Dashboards) to analyze TNMT Retail sales data and generate actionable insights.
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+![Excel Dashboard](https://github.com/Favourlex/TnMT-Retail-Sales-Capstone.xlsx/blob/main/dashboard.png?raw=true)
 
 # TnMT-Retail-Sales-Capstone.xlsx
 Excel Capstone project analyzing TNMT Retail Sales data with Pivot Tables, Slicers, and Dashboards to uncover product, sales team, and state-level revenue insights.
